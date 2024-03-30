@@ -1,5 +1,3 @@
-# apzkr-pzpi-21-1-volovyi-artem
-
 ПЗПІ-21-1
 
 Воловий Артем
